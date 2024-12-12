@@ -1,4 +1,4 @@
-# Misinformation and Disinformation detector 
+# 📰Misinformation and Disinformation detector 
 Past in a URL and see if there are traces of misinformation or disinformation via training an AI model.
 
 ### 📋Aims of App
