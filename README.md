@@ -2,7 +2,7 @@
 Past in a URL and see if there are traces of misinformation or disinformation via training an AI model.
 
 ### 📋Aims of App
-- Users can input a URL and back-end is able to use different weights/scales to understand if parts of text could be false
+- Users can input a URL/text from article or source, and back-end is able to use different weights/scales to understand if parts of text could be false
   
 ### 👩‍💻Technical Details
 
